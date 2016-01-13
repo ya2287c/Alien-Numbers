@@ -2,6 +2,7 @@
 code jam coding challenge: my solution
 
  Problem
+ 
 https://code.google.com/codejam/contest/189252/dashboard#s=p0
 
 In A.D. 2100, aliens came to Earth. They wrote a message in a cryptic 
