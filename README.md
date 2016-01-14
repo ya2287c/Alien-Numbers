@@ -1,7 +1,7 @@
 # Alien-Numbers
-code jam coding challenge: my solution
+##code jam coding challenge: my solution
 
- Problem
+###Problem
  
 https://code.google.com/codejam/contest/189252/dashboard#s=p0
 
@@ -23,5 +23,13 @@ using unary (base 1).
 Your job is to determine the minimum possible number of seconds 
 before war begins.
 
+##Struture of Input & OutPut
 
+###Input
+
+The first line of input contains a single integer, T. T test cases follow. Each test case is a string on a line by itself. The line will contain only characters in the 'a' to 'z' and '0' to '9' ranges (with no spaces and no punctuation), representing the message the aliens left us. The test cases are independent, and can be in different bases with the symbols meaning different things.
+
+###Output
+
+For each test case, output a line in the following format:
  
