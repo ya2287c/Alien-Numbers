@@ -34,15 +34,17 @@ For each test case, output a line in the following format:
 Case #X: V
 ```
 Where **X** is the case number (starting from 1) and **V** is the minimum number of seconds before war begins.
-Limits
+
+######Limits
 
 1 ≤ **T** ≤ 100
 The answer will never exceed 1018
-Small dataset
+
+######Small dataset
 
 1 ≤ the length of each line < 10
 
-Large dataset
+######Large dataset
 
 1 ≤ the length of each line < 61
 
