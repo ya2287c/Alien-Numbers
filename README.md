@@ -1,6 +1,6 @@
 # CodeJam coding challenge: [All Your Base] (https://code.google.com/codejam/contest/189252/dashboard#s=p0)
 
-The following is copied from: https://code.google.com/codejam/contest/189252/dashboard#s=p0
+The following problem is copied from: https://code.google.com/codejam/contest/189252/dashboard#s=p0
 ##Problem
 
 In A.D. 2100, aliens came to Earth. They wrote a message in a cryptic 
