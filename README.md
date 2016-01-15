@@ -74,3 +74,19 @@ so that the smallest number comprised only of unique characters will follow this
 |5| 10234|
 
 and so on....
+
+##Files
+
+There are 4 java files in this program:
+
+- [alienCalculator.java] (https://github.com/ya2287c/Alien-Numbers/blob/master/alienCalculator.java)
+   * This file takes in the set of characters and assigns a unique value to each unique character base on the logic
+     explained above
+- [FileInput.java] (https://github.com/ya2287c/Alien-Numbers/blob/master/FileInput.java)
+  * This file passes the input from the text files provided by the challenge, these text file names are hard coded 
+    into the java file 
+- [User.java] (https://github.com/ya2287c/Alien-Numbers/blob/master/User.java)
+  * This file is not required for the challenge but the User.java allows for single inputs for error checking 
+    and stress testing of the program.
+- [runner.java] (https://github.com/ya2287c/Alien-Numbers/blob/master/runner.java)
+  * This file just runs the program, it's only purpose to start, run, and end the program. 
