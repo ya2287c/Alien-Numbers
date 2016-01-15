@@ -1,9 +1,7 @@
-# Alien-Numbers
-##code jam coding challenge: my solution
+# CodeJam coding challenge: [Alien-Numbers] (https://code.google.com/codejam/contest/189252/dashboard#s=p0)
 
-###Problem
- 
-https://code.google.com/codejam/contest/189252/dashboard#s=p0
+##Problem
+
 
 In A.D. 2100, aliens came to Earth. They wrote a message in a cryptic 
 language, and next to it they wrote a series of symbols. We've come 
@@ -23,7 +21,7 @@ using unary (base 1).
 Your job is to determine the minimum possible number of seconds 
 before war begins.
 
-##Struture of Input & OutPut
+##Struture of Input & Output
 
 ###Input
 
@@ -32,4 +30,5 @@ The first line of input contains a single integer, T. T test cases follow. Each 
 ###Output
 
 For each test case, output a line in the following format:
- 
+
+
