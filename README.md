@@ -90,3 +90,8 @@ There are 4 java files in this program:
     and stress testing of the program.
 - [runner.java] (https://github.com/ya2287c/Alien-Numbers/blob/master/runner.java)
   * This file just runs the program, it's only purpose to start, run, and end the program. 
+
+Additionally, I've included the 2 text files provided by the CodeJam coding challenge at:
+https://code.google.com/codejam/contest/189252/dashboard#s=p0
+- A-large-practice.in
+- A-small-practice.in
