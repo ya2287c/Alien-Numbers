@@ -60,7 +60,7 @@ Sample:
 ______________________________________________________________________________________________________________________________________
 #My Solution
 ## The Logic:
-Given the perameters of the challenge first unique character must correspond to the lowest possible number (or '1')
+Given the parameters of the challenge first unique character must correspond to the lowest possible number (or '1')
 as the chalenge states "the aliens will never start a number with a zero"
 Therfore the second unique character must correspond to the place holder (or '0') 
 And every following unique character increases sequentially continuing with '2'
