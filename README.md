@@ -30,5 +30,6 @@ The first line of input contains a single integer, T. T test cases follow. Each 
 ###Output
 
 For each test case, output a line in the following format:
-
-
+```
+Case #X: V
+```
