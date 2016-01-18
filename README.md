@@ -48,7 +48,7 @@ The answer will never exceed 1018
 
 1 ≤ the length of each line < 61
 
-Sample:
+######Sample:
 
 
 |Input| Output|
